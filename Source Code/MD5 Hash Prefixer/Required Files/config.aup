@@ -1,0 +1,3 @@
+APPLICATION_NAME=MD5 Hash Prefixer
+EXECUTABLE=MD5 Hash Prefixer.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/MD5 Hash Prefixer/manifest.xml
